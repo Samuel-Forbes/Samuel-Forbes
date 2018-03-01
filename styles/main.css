@@ -55,7 +55,7 @@ img {
   text-rendering: optimizeLegibility;
     color: white;
   background-color: and color;
-  font-family: Helvetica Neue, sans;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing:antialiased;
   color: white;
   display: none;
