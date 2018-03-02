@@ -1,4 +1,4 @@
-var one = 'Samuel Forbes'; 
+var one = 'Samuel Thomas Forbes'; 
 var two = '+64 (0)27 257 0995'; 
 var speed = '1000'; 
 
