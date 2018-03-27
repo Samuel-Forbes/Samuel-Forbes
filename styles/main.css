@@ -22,6 +22,24 @@ body {
   color: white;
 }
 
+#sv-theme {
+  position: static;
+  padding-top: 20px;
+  left:20px;
+  top:20px;
+  z-index:10;
+  font-size: 18px;
+  line-height: 1.195em;
+  font-kerning: normal;
+  font-weight: normal;
+  letter-spacing: -0.095px;
+  text-rendering: optimizeLegibility;
+  background-color: and color;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing:antialiased;
+  color: white;
+}
+
 a:link, a:visited {
 	color: #fff;
 	text-decoration: none;
