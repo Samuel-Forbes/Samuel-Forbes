@@ -89,6 +89,11 @@ img {
   margin-bottom: 0;
 }
 
+small {
+  display: inline-block;
+  line-height: 1.3em;
+}
+
 
 @media only screen and (min-width: 768px) {
   .sv-theme {
